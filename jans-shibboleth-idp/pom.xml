@@ -34,8 +34,9 @@
         <spring-webflow.version>3.0.0</spring-webflow.version>
         
         <jetty.version>12.0.25</jetty.version>
+
         <slf4j.version>2.0.17</slf4j.version>
-        <logback.version>1.5.18</logback.version>
+        <logback.version>1.5.32</logback.version>
         
         <jakarta.servlet.api.version>6.1.0</jakarta.servlet.api.version>
         
